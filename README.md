@@ -1,7 +1,7 @@
 # AI Scripts
 
-NOTE: An RTX video card is likely needed with support for CUDA 12.5
-This repo using docker to pull an image from Nvidia
+NOTE: An RTX video card is likely needed with support for CUDA 12.5   
+This repo is using docker to pull an image from Nvidia for pytorch support
 
 [https://docs.nvidia.com/deeplearning/frameworks/pytorch-release-notes/rel-24-06.html](https://docs.nvidia.com/deeplearning/frameworks/pytorch-release-notes/rel-24-06.html)
 
