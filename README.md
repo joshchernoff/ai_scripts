@@ -27,3 +27,29 @@ In another term
 * `pip install diffusers transformers accelerate peft`
 
 * `python sdxl-turbo-text-to-image.py`
+
+### Vue/Flask apps
+These are WIP
+
+
+#### Code helper
+![](code_helper_example.png)
+
+Start flask
+* `cd code_helper`
+* `python app.py`
+
+Start vue
+* `cd code_helper/code-chat-app`
+* `npm run dev`
+
+#### Cascade helper
+![](cascade-helper.png)
+
+Start flask
+* `cd cascade_helper`
+* `python app.py`
+
+Start vue
+* `cd cascade_helper/cascase-image-generator`
+* `npm run dev`
