@@ -24,6 +24,6 @@ You may need to setup your auth key for hugging face
 In another term
 * `docker compose exec pytorch /bin/bash`
 
-* `pip install diffusers transformers accelerate`
+* `pip install diffusers transformers accelerate peft`
 
 * `python sdxl-turbo-text-to-image.py`

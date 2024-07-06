@@ -1,0 +1,5 @@
+torch
+diffusers
+flask
+flask-cors
+Pillow
